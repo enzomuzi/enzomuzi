@@ -1,5 +1,5 @@
 ### Hi, I'm Enzo Muzi
 
 - 🔭 I’m currently working on Faveni Company
-- 🌱 I’m currently learning JavaScript, PHP, React etc...
+- 🌱 I’m currently learning JavaScript, PHP, React, TypeScript etc...
 
