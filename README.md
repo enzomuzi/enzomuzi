@@ -8,7 +8,7 @@ Eu sou Enzo Muzi, um apaixonado por tecnologia e desenvolvimento de software. Aq
 
 - 🌱 Atualmente estou aprendendo **Java/Angular**.
 - 💼 Trabalho como **Quality Assurance(QA)**.
-- 🎯 Meu objetivo para 2024 é **Conseguir a minha primeira vaga de Desenvolvedor**.
+- 🎯 Meu objetivo para 2024 é **Conseguir a minha primeira vaga como Desenvolvedor WEB**.
 - ⚡ Fato curioso: **Amante de músicas, carros e natureza**.
 
 ## 🛠️ Tecnologias & Ferramentas
@@ -45,6 +45,3 @@ Meu primeiro projeto pessoal usando como base uma tela que eu mesmo criei pelo F
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=flat-square)](https://www.instagram.com/hermidorff/)
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white&style=flat-square)](mailto:enzomuzi7@gmail.com)
 
----
-
-⭐️ Inspirado por [seu-username](https://github.com/seu-username)
