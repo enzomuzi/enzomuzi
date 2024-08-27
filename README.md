@@ -2,7 +2,7 @@
 
 <img align="right" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="120">
 
-Eu sou Enzo Muzi, um apaixonado por tecnologia e desenvolvimento de software. Aqui você encontrará alguns dos meus projetos mais recentes, onde aplico minhas habilidades em diferentes áreas, como desenvolvimento web, mobile, e muito mais.
+Eu sou Enzo Muzi, um apaixonado por tecnologia e desenvolvimento de software. Aqui você encontrará alguns dos meus projetos mais recentes, onde aplico minhas habilidades em diferentes áreas, como desenvolvimento web, e muito mais.
 
 ## 🚀 Sobre Mim
 
@@ -18,6 +18,7 @@ Eu sou Enzo Muzi, um apaixonado por tecnologia e desenvolvimento de software. Aq
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white&style=flat-square)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat-square)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square)
+![PHP](https://img.shields.io/badge/logo-php-blue?logo=php)
 
 
 ## 📈 Estatísticas do GitHub
