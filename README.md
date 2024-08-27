@@ -18,7 +18,7 @@ Eu sou Enzo Muzi, um apaixonado por tecnologia e desenvolvimento de software. Aq
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white&style=flat-square)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat-square)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square)
-![PHP](https://img.shields.io/badge/logo-php-blue?logo=php)
+![PHP](https://img.shields.io/badge/php-blue?logo=php)
 
 
 ## 📈 Estatísticas do GitHub
