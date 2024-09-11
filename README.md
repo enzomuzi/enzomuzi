@@ -52,3 +52,5 @@ Meu primeiro projeto pessoal usando como base uma tela que eu mesmo criei pelo F
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=flat-square)](https://www.instagram.com/hermidorff/)
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white&style=flat-square)](mailto:enzomuzi7@gmail.com)
 
+![snake gif](https://github.com/enzomuzi/enzomuzi/blob/output/github-contribution-grid-snake.gif)
+
