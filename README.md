@@ -4,12 +4,14 @@
 
 Eu sou Enzo Muzi, um apaixonado por tecnologia e desenvolvimento de software. Aqui você encontrará alguns dos meus projetos mais recentes, onde aplico minhas habilidades em diferentes áreas, como desenvolvimento web, e muito mais.
 
+
 ## 🚀 Sobre Mim
 
 - 🌱 Atualmente estou aprendendo **Java/Angular**.
 - 💼 Trabalho como **Quality Assurance(QA)**.
 - 🎯 Meu objetivo para 2024 é **Conseguir a minha primeira vaga como Desenvolvedor WEB**.
 - ⚡ Fato curioso: **Amante de músicas, carros e natureza**.
+
 
 ## 🛠️ Tecnologias & Ferramentas
 
@@ -35,9 +37,6 @@ Eu sou Enzo Muzi, um apaixonado por tecnologia e desenvolvimento de software. Aq
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enzomuzi&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-<img src="https://raw.githubusercontent.com/enzomuzi/enzomuzi/output/snake.svg" alt="Snake animation" />
-
-###
 
 ## 📚 Projetos em Destaque
 
@@ -49,6 +48,7 @@ Ainda em fase de desenvolvimento, este projeto é construído em React e é uma 
 
 ### Muzi Food(https://github.com/enzomuzi/muzi-food)
 Meu primeiro projeto pessoal usando como base uma tela que eu mesmo criei pelo Figma. Foi o meu primeiro contato real com a programação e usando Bootstrap. Ainda precisa de novas features utilizando Javascript. 
+
 
 ## 🌐 Vamos nos Conectar!
 
