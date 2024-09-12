@@ -35,6 +35,10 @@ Eu sou Enzo Muzi, um apaixonado por tecnologia e desenvolvimento de software. Aq
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enzomuzi&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
+<img src="https://raw.githubusercontent.com/enzomuzi/enzomuzi/output/snake.svg" alt="Snake animation" />
+
+###
+
 ## 📚 Projetos em Destaque
 
 ### Enterprise Angular(https://github.com/enzomuzi/enterprise-angular)
