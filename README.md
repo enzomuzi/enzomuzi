@@ -47,7 +47,7 @@ Ainda em constante evolução, este projeto é um site construído em Angular vi
 Ainda em fase de desenvolvimento, este projeto é construído em React e é uma participação minha ao curso fornecido pela Rocketseat. Este projeto me fez melhorar meus conhecimentos em React e como parte de minha colaboração estou desenvolvendo novas features e novas páginas.
 
 ### Muzi Food(https://github.com/enzomuzi/muzi-food)
-Meu primeiro projeto pessoal usando como base uma tela que eu mesmo criei pelo Figma. Foi o meu primeiro contato real com a programação e usando Bootstrap. Ainda precisa de novas features utilizando Javascript. 
+Meu primeiro projeto pessoal usando como base uma tela que eu mesmo criei pelo Figma. Utilizando Bootstrap para o FrontEnd e para o backend está sendo utilizado PHP. 
 
 
 ## 🌐 Vamos nos Conectar!
