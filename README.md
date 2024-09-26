@@ -7,7 +7,7 @@ Eu sou Enzo Muzi, um apaixonado por tecnologia e desenvolvimento de software. Aq
 
 ## 🚀 Sobre Mim
 
-- 🌱 Atualmente estou aprendendo **Java/Angular**.
+- 🌱 Atualmente estou aprendendo **PHP/REACT**.
 - 💼 Trabalho como **Quality Assurance(QA)**.
 - 🎯 Meu objetivo para 2024 é **Conseguir a minha primeira vaga como Desenvolvedor WEB**.
 - ⚡ Fato curioso: **Amante de músicas, carros e natureza**.
