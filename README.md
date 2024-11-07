@@ -40,8 +40,8 @@ Eu sou Enzo Muzi, um apaixonado por tecnologia e desenvolvimento de software. Aq
 
 ## 📚 Projetos em Destaque
 
-### Pokedéx Mobile(https://github.com/enzomuzi/pokedex-mobile)
-Ainda em constante evolução, este projeto é um aplicativo construído em React visando uma boa apresentação, consumo de API'S e etc. Focando no estudo e boas práticas.
+### Pokedéx Mobile(https://github.com/enzomuzi/pokedex-mob)
+Ainda em constante evolução, este projeto é um aplicativo construído em React Native visando uma boa apresentação, consumo de API'S e etc. Focando no estudo e boas práticas.
 
 ### NLW-Journey(https://github.com/enzomuzi/nlw-journey)
 Ainda em fase de desenvolvimento, este projeto é construído em React e é uma participação minha ao curso fornecido pela Rocketseat. Este projeto me fez melhorar meus conhecimentos em React e como parte de minha colaboração estou desenvolvendo novas features e novas páginas.
