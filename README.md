@@ -9,7 +9,7 @@ Eu sou Enzo Muzi, um apaixonado por tecnologia e desenvolvimento de software. Aq
 
 - 🌱 Atualmente estou aprendendo **PHP/REACT**.
 - 💼 Trabalho como **Quality Assurance(QA)**.
-- 🎯 Meu objetivo para 2024 é **Conseguir a minha primeira vaga como Desenvolvedor WEB**.
+- 🎯 Meu objetivo para 2024 é **Conseguir a minha primeira vaga como Desenvolvedor**.
 - ⚡ Fato curioso: **Amante de músicas, carros e natureza**.
 
 
@@ -24,6 +24,7 @@ Eu sou Enzo Muzi, um apaixonado por tecnologia e desenvolvimento de software. Aq
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
 
 
