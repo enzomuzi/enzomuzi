@@ -45,7 +45,7 @@ Este é o meu primeiro projeto em React Native, um aplicativo mobile que desenvo
 Ainda em fase de desenvolvimento, este projeto é construído em React e é uma participação minha ao curso fornecido pela Rocketseat. Este projeto me fez melhorar meus conhecimentos em React e como parte de minha colaboração estou desenvolvendo novas features e novas páginas.
 
 ### Muzi Food(https://github.com/enzomuzi/muzi-food)
-Meu primeiro projeto pessoal usando como base uma tela que eu mesmo criei pelo Figma. Utilizando Bootstrap para o FrontEnd e para o backend está sendo utilizado PHP. 
+O Muzi Food é meu primeiro projeto pessoal, inspirado em uma interface que eu mesmo criei no Figma. Ele foi inicialmente desenvolvido com Bootstrap no frontend e PHP no backend. Embora ainda não esteja finalizado, estou migrando o projeto para Laravel, onde planejo aprimorá-lo e finalizá-lo para comercialização através da minha empresa, Eme Future Tech. Este é um grande marco na minha jornada de aprendizado e desenvolvimento! 
 
 
 ## 🌐 Vamos nos Conectar!
