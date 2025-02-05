@@ -1,15 +1,16 @@
-# 👋 Olá! Bem-vindo ao meu GitHub!
+# 👋 Olá! Seja bem-vindo ao meu GitHub!
 
 <img align="right" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="120">
 
-Eu sou Enzo Muzi, um apaixonado por tecnologia e desenvolvimento de software. Aqui você encontrará alguns dos meus projetos mais recentes, onde aplico minhas habilidades em diferentes áreas, como desenvolvimento web, e muito mais.
+💡 Olá! Eu sou Enzo Muzi, um desenvolvedor Full-Stack apaixonado por tecnologia e inovação. Sou cofundador da EME Future Tech, onde criamos soluções tecnológicas personalizadas para empresas e startups.
 
 
 ## 🚀 Sobre Mim
 
-- 🌱 Atualmente estou aprendendo **PHP/REACT**.
-- 💼 Trabalho como **Quality Assurance(QA)**.
-- 🎯 Meu objetivo para 2025 é **Conseguir a minha primeira vaga como Desenvolvedor**.
+- 🌱 Atualmente estou aprendendo **Java/Angular**.
+- Experiência: Desenvolvimento Web utilizando PHP, Laravel, Vue.js, Bootstrap e MYSql.
+- 💼 Trabalho como **Desenvolvedor WEB no Grupo Faveni**.
+- 🎯 Meu objetivo para 2025 é **Expandir minhas habilidades e levar inovação ao meu local de trabalho**.
 - ⚡ Fato curioso: **Amante de músicas, carros e natureza**.
 
 
@@ -19,6 +20,7 @@ Eu sou Enzo Muzi, um apaixonado por tecnologia e desenvolvimento de software. Aq
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![ReactNative](https://img.shields.io/badge/ReactNative-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Angular](https://img.shields.io/badge/angular-%23FF2D20.svg?style=for-the-badge&logo=angular&logoColor=white),
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
@@ -40,8 +42,8 @@ Eu sou Enzo Muzi, um apaixonado por tecnologia e desenvolvimento de software. Aq
 ### Pokedéx Mobile(https://github.com/enzomuzi/pokedex-mob)
 Este é o meu primeiro projeto em React Native, um aplicativo mobile que desenvolvi para aprender e praticar o consumo de APIs e o uso do React Query. Foi um grande passo na minha jornada de aprendizado em desenvolvimento mobile, e estou muito orgulhoso do resultado. Ainda estou evoluindo e buscando melhorar a cada dia, mas este projeto já reflete meu esforço em aplicar boas práticas e criar algo funcional e bonito.
 
-### NLW-Journey(https://github.com/enzomuzi/nlw-journey)
-Ainda em fase de desenvolvimento, este projeto é construído em React e é uma participação minha ao curso fornecido pela Rocketseat. Este projeto me fez melhorar meus conhecimentos em React e como parte de minha colaboração estou desenvolvendo novas features e novas páginas.
+### Cinema Project(https://github.com/enzomuzi/cinema-project)
+Ainda em fase de desenvolvimento, este projeto é construído em Angular e Java com Framework Spring. Este projeto me fez aprimorar em Angular e melhorar meus conhecimentos em Java, com o aprendizado constante este projeto vem me ajudando a aplicar as boas práticas e também reforçar todo o meu conhecimento ao longo da minha trajetória.
 
 ### Muzi Food(https://github.com/enzomuzi/muzi-food)
 O Muzi Food é meu primeiro projeto pessoal, inspirado em uma interface que eu mesmo criei no Figma. Ele foi inicialmente desenvolvido com Bootstrap no frontend e PHP no backend. Embora ainda não esteja finalizado, estou migrando o projeto para Laravel, onde planejo aprimorá-lo e finalizá-lo para comercialização através da minha empresa, Eme Future Tech. Este é um grande marco na minha jornada de aprendizado e desenvolvimento! 
