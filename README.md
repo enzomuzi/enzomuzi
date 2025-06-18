@@ -8,8 +8,8 @@
 ## 🚀 Sobre Mim
 
 - 🌱 Atualmente estou aprendendo **Java/Angular**.
-- 🔹 Experiência: Desenvolvimento Web utilizando PHP, Laravel, Nuxt.js, Javascript, Typescript e MYSql.
-- 💼 Trabalho como **Desenvolvedor WEB no Grupo Faveni**.
+- 🔹 Experiência: Desenvolvimento Web utilizando PHP, Laravel, Nuxt.js, Javascript, Typescript e MySQL.
+- 💼 Trabalho como **Software Developer no Grupo Faveni**.
 - 🎯 Meu objetivo para 2025 é **Expandir minhas habilidades e levar inovação ao meu local de trabalho**.
 - ⚡ Fato curioso: **Amante de músicas, carros e natureza**.
 
@@ -22,7 +22,7 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-![Nuxt JS](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxt.js&logoColor=#00DC82)
+![Nuxt.js](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxt.js&logoColor=#00DC82)
 ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 ![ReactNative](https://img.shields.io/badge/ReactNative-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
