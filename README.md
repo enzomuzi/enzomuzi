@@ -44,8 +44,8 @@ Este é o meu primeiro projeto em React Native, um aplicativo mobile que desenvo
 ### Cinema Project(https://github.com/enzomuzi/cinema-project)
 Ainda em fase de desenvolvimento, este projeto é construído em Angular e Java com Framework Spring. Este projeto me fez aprimorar em Angular e melhorar meus conhecimentos em Java, com o aprendizado constante este projeto vem me ajudando a aplicar as boas práticas e também reforçar todo o meu conhecimento ao longo da minha trajetória.
 
-### Muzi Food(https://github.com/enzomuzi/muzi-food)
-O Muzi Food é meu primeiro projeto pessoal, inspirado em uma interface que eu mesmo criei no Figma. Ele foi inicialmente desenvolvido com Bootstrap no frontend e PHP no backend. Embora ainda não esteja finalizado, estou migrando o projeto para Laravel, onde planejo aprimorá-lo e finalizá-lo para comercialização através da minha empresa, Eme Future Tech. Este é um grande marco na minha jornada de aprendizado e desenvolvimento! 
+### Backend Cinema Spring(https://github.com/enzomuzi/muzi-food](https://github.com/enzomuzi/backend-cinema-spring)
+Este é o meu primeiro projeto backend utilizando Java com o framework Spring e gerenciamento de dependências via Maven. A aplicação é acompanhada por um frontend desenvolvido em Angular, formando uma stack completa. O sistema é inspirado em uma aplicação simples de gerenciamento de cinema, servindo como base prática para aprofundar meus conhecimentos na linguagem Java e nas boas práticas de desenvolvimento web. Este projeto tem sido uma oportunidade valiosa para consolidar conceitos de APIs REST, injeção de dependência, camadas de serviço e integração com o frontend. Pretendo continuar evoluindo e aprimorando este projeto à medida que avanço na jornada com Java.
 
 
 ## 🌐 Vamos nos Conectar!
