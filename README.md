@@ -2,7 +2,7 @@
 
 <img align="right" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="120">
 
-💡 Olá! Eu sou Enzo Muzi, um desenvolvedor Full-Stack apaixonado por tecnologia e inovação. Sou cofundador da EME Future Tech, onde criamos soluções tecnológicas personalizadas para empresas e startups.
+💡 Olá! Eu sou Enzo Muzi, um Desenvolvedor de Software apaixonado por tecnologia e inovação. Sou cofundador da EME Future Tech, onde criamos soluções tecnológicas personalizadas para empresas e startups.
 
 
 ## 🚀 Sobre Mim
