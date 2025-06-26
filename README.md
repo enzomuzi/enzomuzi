@@ -8,8 +8,8 @@
 ## 🚀 Sobre Mim
 
 - 🌱 Atualmente estou aprendendo **Java/Angular**.
-- 🔹 Experiência: Desenvolvimento de Software utilizando PHP, Laravel, Nuxt.js, Javascript, Typescript e MySQL.
-- 💼 Trabalho como **Software Developer no Grupo Faveni**.
+- 🔹 Experiência: Desenvolvimento de Software utilizando PHP, Laravel, Java, Spring Boot, Nuxt.js, Javascript, Typescript, Angular, Docker e MySQL. 
+- 💼 Trabalho como **Desenvolvedor Full Stack no Grupo Faveni**.
 - 🎯 Meu objetivo para 2025 é **Expandir minhas habilidades e levar inovação ao meu local de trabalho**.
 - ⚡ Fato curioso: **Amante de músicas, carros e natureza**.
 
